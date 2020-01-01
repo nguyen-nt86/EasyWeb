@@ -1,0 +1,8 @@
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Common\bin\Debug\netcoreapp3.0\EasyWeb.Common.deps.json
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Common\bin\Debug\netcoreapp3.0\EasyWeb.Common.dll
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Common\obj\Debug\netcoreapp3.0\EasyWeb.Common.AssemblyInfoInputs.cache
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Common\obj\Debug\netcoreapp3.0\EasyWeb.Common.AssemblyInfo.cs
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Common\bin\Debug\netcoreapp3.0\EasyWeb.Common.pdb
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Common\obj\Debug\netcoreapp3.0\EasyWeb.Common.dll
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Common\obj\Debug\netcoreapp3.0\EasyWeb.Common.pdb
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Common\obj\Debug\netcoreapp3.0\EasyWeb.Common.csprojAssemblyReference.cache

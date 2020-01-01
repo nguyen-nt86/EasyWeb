@@ -84,9 +84,9 @@ E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Test\bin\Debug\netcoreapp3.0\zh-Hans\M
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Test\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Test\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Test\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Test\obj\Debug\netcoreapp3.0\EasyWeb.Test.csprojAssemblyReference.cache
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Test\obj\Debug\netcoreapp3.0\EasyWeb.Test.AssemblyInfoInputs.cache
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Test\obj\Debug\netcoreapp3.0\EasyWeb.Test.AssemblyInfo.cs
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Test\obj\Debug\netcoreapp3.0\EasyWeb.Test.csproj.CopyComplete
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Test\obj\Debug\netcoreapp3.0\EasyWeb.Test.dll
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Test\obj\Debug\netcoreapp3.0\EasyWeb.Test.pdb
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Test\obj\Debug\netcoreapp3.0\EasyWeb.Test.csprojAssemblyReference.cache

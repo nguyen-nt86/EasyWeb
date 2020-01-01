@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyWeb.Data", "EasyWeb.Data\EasyWeb.Data.csproj", "{F3FCD906-DB45-4757-AEAC-54FB7C1379E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyWeb.Data", "EasyWeb.Data\EasyWeb.Data.csproj", "{F3FCD906-DB45-4757-AEAC-54FB7C1379E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyWeb.Model", "EasyWeb.Model\EasyWeb.Model.csproj", "{09995EA0-3EFE-46A8-BA24-621A00194B4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyWeb.Model", "EasyWeb.Model\EasyWeb.Model.csproj", "{09995EA0-3EFE-46A8-BA24-621A00194B4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyWeb.Service", "EasyWeb.Service\EasyWeb.Service.csproj", "{3BE948FC-EF11-4DA5-935B-710AC8A0EE93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyWeb.Service", "EasyWeb.Service\EasyWeb.Service.csproj", "{3BE948FC-EF11-4DA5-935B-710AC8A0EE93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyWeb.Test", "EasyWeb.Test\EasyWeb.Test.csproj", "{2A8B946B-0371-4132-A73E-47B9B7DD0023}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyWeb.Test", "EasyWeb.Test\EasyWeb.Test.csproj", "{2A8B946B-0371-4132-A73E-47B9B7DD0023}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyWeb.Web", "EasyWeb.Web\EasyWeb.Web.csproj", "{31148777-CFEC-48FB-8039-E091FA43559A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyWeb.Web", "EasyWeb.Web\EasyWeb.Web.csproj", "{31148777-CFEC-48FB-8039-E091FA43559A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyWeb.Common", "EasyWeb.Common\EasyWeb.Common.csproj", "{CCC54A2A-15F5-4963-9129-8090BBFA5137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyWeb.Logging", "EasyWeb.Logging\EasyWeb.Logging.csproj", "{5911A2CD-2133-46FA-96CD-32F0B810ED11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{31148777-CFEC-48FB-8039-E091FA43559A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31148777-CFEC-48FB-8039-E091FA43559A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31148777-CFEC-48FB-8039-E091FA43559A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC54A2A-15F5-4963-9129-8090BBFA5137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC54A2A-15F5-4963-9129-8090BBFA5137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC54A2A-15F5-4963-9129-8090BBFA5137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC54A2A-15F5-4963-9129-8090BBFA5137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5911A2CD-2133-46FA-96CD-32F0B810ED11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5911A2CD-2133-46FA-96CD-32F0B810ED11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5911A2CD-2133-46FA-96CD-32F0B810ED11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5911A2CD-2133-46FA-96CD-32F0B810ED11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

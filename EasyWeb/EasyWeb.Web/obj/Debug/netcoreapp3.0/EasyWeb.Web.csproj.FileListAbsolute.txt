@@ -9,7 +9,6 @@ E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Web\bin\Debug\netcoreapp3.0\EasyWeb.We
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Web\bin\Debug\netcoreapp3.0\EasyWeb.Web.pdb
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Web\bin\Debug\netcoreapp3.0\EasyWeb.Web.Views.dll
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Web\bin\Debug\netcoreapp3.0\EasyWeb.Web.Views.pdb
-E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Web\obj\Debug\netcoreapp3.0\EasyWeb.Web.csprojAssemblyReference.cache
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Web\obj\Debug\netcoreapp3.0\staticwebassets\EasyWeb.Web.StaticWebAssets.Manifest.cache
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Web\obj\Debug\netcoreapp3.0\staticwebassets\EasyWeb.Web.StaticWebAssets.xml
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Web\obj\Debug\netcoreapp3.0\EasyWeb.Web.MvcApplicationPartsAssemblyInfo.cache
@@ -33,3 +32,4 @@ E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Web\obj\Debug\netcoreapp3.0\EasyWeb.We
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Web\obj\Debug\netcoreapp3.0\EasyWeb.Web.dll
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Web\obj\Debug\netcoreapp3.0\EasyWeb.Web.pdb
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Web\obj\Debug\netcoreapp3.0\EasyWeb.Web.csproj.CopyComplete
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Web\obj\Debug\netcoreapp3.0\EasyWeb.Web.csprojAssemblyReference.cache

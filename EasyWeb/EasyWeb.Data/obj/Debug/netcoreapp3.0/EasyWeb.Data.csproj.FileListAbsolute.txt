@@ -5,3 +5,11 @@ E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Data\obj\Debug\netcoreapp3.0\EasyWeb.D
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Data\obj\Debug\netcoreapp3.0\EasyWeb.Data.AssemblyInfo.cs
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Data\obj\Debug\netcoreapp3.0\EasyWeb.Data.dll
 E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Data\obj\Debug\netcoreapp3.0\EasyWeb.Data.pdb
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Data\obj\Debug\netcoreapp3.0\EasyWeb.Data.csprojAssemblyReference.cache
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Data\bin\Debug\netcoreapp3.0\EasyWeb.Data.runtimeconfig.json
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Data\bin\Debug\netcoreapp3.0\EasyWeb.Data.runtimeconfig.dev.json
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Data\bin\Debug\netcoreapp3.0\EasyWeb.Model.dll
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Data\bin\Debug\netcoreapp3.0\EasyWeb.Model.pdb
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Data\obj\Debug\netcoreapp3.0\EasyWeb.Data.csproj.CopyComplete
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Data\bin\Debug\netcoreapp3.0\EasyWeb.Common.dll
+E:\Working\Nguyen\EasyWeb\EasyWeb\EasyWeb.Data\bin\Debug\netcoreapp3.0\EasyWeb.Common.pdb
