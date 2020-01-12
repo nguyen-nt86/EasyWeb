@@ -50,6 +50,10 @@ namespace EasyWeb.Web
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
+                    name: "admin",
+                    pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
+
+                endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
